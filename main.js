@@ -2,7 +2,7 @@ let name = prompt("Qual o seu nome?");
 let start = prompt("Olá, " + name + "! Você quer testar sua matemática? \n 1. Sim \n 2. Não");
 
 if (start == 2)
-{document.write("Que pena :( <br></br> Quem sabe numa próxima, " + name + "? <br></br> Até mais!")}
+{document.write("<br></br>Que pena :( <br></br> Quem sabe numa próxima, " + name + "? <br></br> Até mais!")}
 
 else if (start == 1)
 {
