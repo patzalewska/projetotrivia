@@ -8,11 +8,13 @@ div{display: center;
   display: inline-block;}
 
 #corretas{
+  color: blue;
   text-align: center;
   padding: 100px;
   border: 5px solid black;}
 
 #incorretas{
+  color: red;
   text-align: center;
   padding: 100px;
   border: 5px solid black;}
